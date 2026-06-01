@@ -4,7 +4,7 @@
 
 MS in Data Analytics @ California State University, Fresno *(NRTW Scholar)*
 3+ years of experience in financial and retail analytics
-📍 Fresno, CA, USA | 📧 ramuusa61@gmail.com
+📍 Fresno, CA, USA | 📧 ramubattu@mail.fresnostate.edu
 
 ---
 
