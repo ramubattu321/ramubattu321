@@ -1,54 +1,77 @@
 # Hi, I'm Ramu Battu 👋
-
-**Data Scientist & Analyst | Python · SQL · Power BI · Machine Learning · AWS**
-
-MS in Data Analytics @ California State University, Fresno *(NRTW Scholar)*
-3+ years of experience in financial and retail analytics
+**Data Scientist & Analytics Engineer | Python · SQL · Power BI · Machine Learning · AWS**
+MS Industrial Technology (Data Analytics & AI) @ California State University, Fresno *(GPA 3.71 · NRTW Scholar)*
+3+ years of experience in data analytics, ML modeling, and LLM research
 📍 Fresno, CA, USA | 📧 ramubattu@mail.fresnostate.edu
 
 ---
 
 ## 🔭 What I'm Working On
-- **Supply Chain Optimization** — demand forecasting + Power BI dashboards @ CSU Fresno
+- **Supply Chain Optimization** — demand forecasting + Power BI dashboards @ CSU Fresno *(Apr 2026 – Present)*
 - **E-Commerce Intelligence Platform** — AWS S3, Athena, ML, Flask REST API
 - **Applied AI & ML Research** — NLP, LLMs, RAG, Deep Learning *(presented @ CCVRS 2026)*
 
-## 🛠️ Tech Stack
+---
 
+## 🔬 Research Experience
+**Student Researcher · California State University, Fresno** *(Aug 2025 – Apr 2026)*
+
+- Presented 3 sessions at the **California Central Valley Research Symposium (CCVRS 2026)**:
+  - Applied AI & ML Research: LLM Fine-Tuning, RAG & NLP — benchmarked 6 ML models, ACTD outperformed iterative RAG across 4 LLM architectures
+  - Tokenization, Vector Embedding & Vector Database *(co-author: N.P. Mahalik, CSU Fresno)*
+  - ML Algorithms in Data Analysis *(Decision Trees, Regression, Clustering)*
+- 📖 **CRC Press (Accepted, In Press 2026):** "Smart Building Technologies for Energy-Efficient Urban Ecosystems" — ORCID: [0009-0005-2744-1804](https://orcid.org/0009-0005-2744-1804)
+- 📖 **CRC Press (In Progress):** Microgrid Systems · Editor: Dr. Jose Anand
+
+---
+
+## 🛠️ Tech Stack
 **Languages & Tools**
-`Python` `SQL` `Power BI (DAX)` `Excel` `AWS (S3, Athena, Glue)` `Flask`
+`Python` `SQL` `Power BI (DAX)` `Tableau` `Excel` `AWS (S3, Athena, Glue, EC2)` `Flask` `Git`
 
 **Machine Learning**
-`Scikit-learn` `Random Forest` `Gradient Boosting` `SVM` `K-Means` `Linear Regression`
+`Scikit-learn` `PyTorch` `TensorFlow` `Gradient Boosting` `Random Forest` `Decision Trees` `SVM` `K-Means` `Regression`
 
-**NLP & AI**
-`BERT` `Word2Vec` `GloVe` `Transformers` `RAG` `LLM Fine-Tuning` `FAISS`
+**NLP & LLM**
+`BERT` `Word2Vec` `GloVe` `Transformers` `RAG Pipelines` `LLM Fine-Tuning (ACTD)` `FAISS` `HNSW` `Prompt Engineering`
 
 **Data Engineering**
-`ETL Pipelines` `Boto3` `Pandas` `NumPy` `XML Parsing` `Tally ERP`
+`ETL Pipelines` `AWS Glue` `AWS Athena` `Redshift` `Boto3` `Pandas` `NumPy` `Oracle` `NoSQL` `PostgreSQL` `SQLite`
+
+**Statistics**
+`A/B Testing` `Hypothesis Testing` `SPC (3-Sigma)` `Confidence Intervals` `EDA`
+
+---
 
 ## 📌 Featured Projects
-
 | Project | Stack | Highlights |
 |---------|-------|-----------|
-| [E-Commerce AWS Intelligence](https://github.com/ramubattu321/Ecommerce-AWS-Intelligence) | Python · AWS · SQL · Flask | ETL → S3, 12 Athena queries, ML forecasting R²=0.89, +15% CVR A/B test |
-| [Applied AI & ML Research](https://github.com/ramubattu321/Applied-AI-ML-Research-NLP-LLMs-Deep-Learning-Production-Optimization) | Python · BERT · RAG · SQL | Symposium 2026, GloVe benchmarks, LSTM perplexity=30, ACTD fine-tuning |
-| [A/B Testing — SQL & Python](https://github.com/ramubattu321/A-B-Testing-Analysis-using-SQL-and-Python) | SQL · Python · SciPy | 16 SQL queries, z-test, +15% CVR lift confirmed |
-| [HR Analytics Dashboard](https://github.com/ramubattu321/HR-Analytics-Dash-Board--Power-BI) | Power BI · DAX | 1,470 employees, 16% attrition, DAX measures |
-| [Financial ETL Pipeline](https://github.com/ramubattu321/Financial-Data-Transformation-ETL-Analysis) | Python · SQL · XML | $250M+ records, 16 financial SQL queries |
-| [Manufacturing SPC](https://github.com/ramubattu321/manufacturing-process-analysis-eda) | Python · SQL | 3-sigma control charts, 270 anomalies detected |
+| [Supply Chain Optimization](https://github.com/ramubattu321) | Python · SQL · Power BI · Tableau | Demand forecasting, inventory KPIs, time-series · MS Capstone |
+| [E-Commerce AWS Intelligence](https://github.com/ramubattu321/Ecommerce-AWS-Intelligence) | Python · AWS · SQL · Flask | ETL → S3, 12 Athena queries, Gradient Boosting R²=0.89, +15% CVR A/B test |
+| [Applied AI & ML Research](https://github.com/ramubattu321/Applied-AI-ML-Research-NLP-LLMs-Deep-Learning-Production-Optimization) | Python · BERT · RAG · FAISS | CCVRS 2026, ACTD fine-tuning, GloVe benchmarks, LSTM perplexity=30 |
+| [Manufacturing SPC Pipeline](https://github.com/ramubattu321/manufacturing-process-analysis-eda) | Python · SQL · Redshift · Oracle | 3-sigma control charts, 270 anomalies (141 critical) flagged in real time |
+| [A/B Testing — SQL & Python](https://github.com/ramubattu321/A-B-Testing-Analysis-using-SQL-and-Python) | SQL · Python · SciPy | 16 SQL queries, z-test, +15% CVR lift confirmed, p<0.05 |
+| [Financial ETL Pipeline](https://github.com/ramubattu321/Financial-Data-Transformation-ETL-Analysis) | Python · SQL · SQLite | $250M+ records, anomaly detection, P&L rollup, data lineage |
+| [HR Analytics Dashboard](https://github.com/ramubattu321/HR-Analytics-Dash-Board--Power-BI) | Power BI · DAX | 1,470 employees, 16% attrition analysis, DAX measures |
+
+---
 
 ## 📊 GitHub Stats
-
 ![Ramu's GitHub Stats](https://github-readme-stats.shion.dev/api?username=ramubattu321&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=ramubattu321&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🎓 Certifications
-Google Data Analytics · Data Analysis with Python · SQL Fundamentals · MS Office Specialist: Power BI · MS Office Specialist: Excel
+---
+
+## 🎓 Education & Certifications
+**MS Industrial Technology (Data Analytics & AI)** · CSU Fresno · GPA 3.71 · NRTW Scholar · Expected Dec 2026
+**BE Engineering** · Matrusri Engineering College, Osmania University · 2024
+
+**Certifications:** Google Data Analytics · Data Analysis with Python · SQL Fundamentals · MS Office Specialist: Power BI · MS Office Specialist: Excel
+
+---
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramu-battu-01a9a336a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://ramu-battu.bolt.host/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramuusa61@gmail.com)
-
-*Open to Data Analyst, Data Scientist, and Business Intelligence roles in the USA*
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2744-1804)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramubattu@mail.fresnostate.edu)
