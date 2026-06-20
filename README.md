@@ -1,5 +1,5 @@
 # Hi, I'm Ramu Battu 👋
-**Data Scientist & Analytics Engineer | Python · SQL · Power BI · Machine Learning · AWS**
+**Data Analyst & Analytics Engineer | Python · SQL · Power BI · Machine Learning · AWS**
 MS Industrial Technology (Data Analytics & AI) @ California State University, Fresno *(GPA 3.71 · NRTW Scholar)*
 3+ years of experience in data analytics, ML modeling, and LLM research
 📍 Fresno, CA, USA | 📧 ramubattu@mail.fresnostate.edu
