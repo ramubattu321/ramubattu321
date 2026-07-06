@@ -13,14 +13,14 @@ Designing financial reporting dashboards (Power BI, Tableau, SQL), building SQL 
 ---
 
 ## 🔭 What I'm Working On
-- **Supply Chain Optimization** — demand forecasting + Power BI dashboards @ CSU Fresno *(Apr 2026 – Present)*
+- **Supply Chain Optimization** — demand forecasting + Power BI dashboards @ CSU Fresno 
 - **E-Commerce Intelligence Platform** — AWS S3, Athena, ML, Flask REST API
 - **Applied AI & ML Research** — NLP, LLMs, RAG, Deep Learning *(presented @ CCVRS 2026)*
 
 ---
 
 ## 🔬 Research Experience
-**Student Researcher · California State University, Fresno** *(Aug 2025 – Apr 2026)*
+**Student Researcher · California State University, Fresno** 
 
 - Presented 3 sessions at the **California Central Valley Research Symposium (CCVRS 2026)**:
   - Applied AI & ML Research: LLM Fine-Tuning, RAG & NLP — benchmarked 6 ML models, ACTD outperformed iterative RAG across 4 LLM architectures
@@ -32,9 +32,9 @@ Designing financial reporting dashboards (Power BI, Tableau, SQL), building SQL 
 ---
 
 ## 🧭 Professional Experience
-**Senior Data Analyst (Contract) · Bank of America** — Charlotte, NC *(Jan 2026 – Present)*
-**Data Analyst · Cognizant** — Hyderabad, India *(Jan 2023 – Dec 2024)*
-**Data Analyst · Gautam Joshi & Co. LLP** — Hyderabad, India *(Apr 2021 – Dec 2022)*
+** Data Analyst (Contract) · Bank of America** — Charlotte, NC *(Jan 2026 – Present)*
+** Data Analyst · Cognizant** — Hyderabad, India *(Jan 2023 – Dec 2024)*
+** Data Analyst · Gautam Joshi & Co. LLP** — Hyderabad, India *(Apr 2021 – Dec 2022)*
 
 *(Began analytics work during undergrad while coursework moved online; roles ran concurrently with degree completion.)*
 
