@@ -7,7 +7,7 @@ MS Industrial Technology (Data Analytics & AI) @ California State University, Fr
 ---
 
 ## 💼 Current Role
-**Senior Data Analyst (Contract) · Bank of America** *(Jan 2026 – Present)* — Charlotte, NC
+** Data Analyst (Contract) · Bank of America** *(Jan 2026 – Present)* — Charlotte, NC
 Designing financial reporting dashboards (Power BI, Tableau, SQL), building SQL data models across Snowflake and SQL Server, and standardizing reconciliation workflows for banking operations and audit teams.
 
 ---
