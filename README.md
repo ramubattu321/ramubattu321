@@ -1,8 +1,14 @@
 # Hi, I'm Ramu Battu 👋
-**Data Analyst & Analytics Engineer | Python · SQL · Power BI · Machine Learning · AWS**
+**Senior Data Analyst | Python · SQL · Power BI · Machine Learning · AWS**
 MS Industrial Technology (Data Analytics & AI) @ California State University, Fresno *(GPA 3.71 · NRTW Scholar)*
-3+ years of experience in data analytics, ML modeling, and LLM research
+4+ years of experience across data analytics, ML modeling, and applied LLM/RAG research
 📍 Fresno, CA, USA | 📧 ramubattu@mail.fresnostate.edu
+
+---
+
+## 💼 Current Role
+**Senior Data Analyst (Contract) · Bank of America** *(Jan 2026 – Present)* — Charlotte, NC
+Designing financial reporting dashboards (Power BI, Tableau, SQL), building SQL data models across Snowflake and SQL Server, and standardizing reconciliation workflows for banking operations and audit teams.
 
 ---
 
@@ -22,6 +28,15 @@ MS Industrial Technology (Data Analytics & AI) @ California State University, Fr
   - ML Algorithms in Data Analysis *(Decision Trees, Regression, Clustering)*
 - 📖 **CRC Press (Accepted, In Press 2026):** "Smart Building Technologies for Energy-Efficient Urban Ecosystems" — ORCID: [0009-0005-2744-1804](https://orcid.org/0009-0005-2744-1804)
 - 📖 **CRC Press (In Progress):** Microgrid Systems · Editor: Dr. Jose Anand
+
+---
+
+## 🧭 Professional Experience
+**Senior Data Analyst (Contract) · Bank of America** — Charlotte, NC *(Jan 2026 – Present)*
+**Data Analyst · Cognizant** — Hyderabad, India *(Jan 2023 – Dec 2024)*
+**Data Analyst · Gautam Joshi & Co. LLP** — Hyderabad, India *(Apr 2021 – Dec 2022)*
+
+*(Began analytics work during undergrad while coursework moved online; roles ran concurrently with degree completion.)*
 
 ---
 
